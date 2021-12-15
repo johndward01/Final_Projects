@@ -1,4 +1,4 @@
-# Final_Projects
+# Final Projects
 
 - Open the **Final Project** Folder
 - Then open the **Exercise.md** file
